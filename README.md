@@ -1,15 +1,12 @@
 
 # ShareTap Custom Website
 
-Source code to ShareTap's incredible website, found at; www.example.com
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+ShareTap's incredible website, found at; www.example.com
 
 
 ## Tech Stack
 
-**Magento:** 2.4.7
+**Wordpress:** 6.5.2
 
 **PHP:** 8.3
 
