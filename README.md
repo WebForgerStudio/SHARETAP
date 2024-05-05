@@ -16,7 +16,7 @@ ShareTap's incredible website, found at; www.example.com
 
 #### What is Wordpress?
 
-Magento is a service provided by Adobe which creates the foundation of an E-commerce website.
+Wordpress is an extremely popular tool to make websites of all kinds. With built in features, along with custom code, we at WebForgers provide the best websites.
 
 #### What is Linode?
 
