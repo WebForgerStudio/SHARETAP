@@ -14,7 +14,7 @@ ShareTap's incredible website, found at; www.example.com
 
 ## FAQ
 
-#### What is Magento?
+#### What is Wordpress?
 
 Magento is a service provided by Adobe which creates the foundation of an E-commerce website.
 
