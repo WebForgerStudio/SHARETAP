@@ -1,7 +1,7 @@
 
 # ShareTap Custom Website
 
-ShareTap's incredible website, found at; www.example.com
+ShareTap's incredible website, found at; http://meeteo.ddns.net:57000
 
 
 ## Tech Stack
